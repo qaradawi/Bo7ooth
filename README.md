@@ -1,3 +1,6 @@
+# https://qaradawi.github.io
+
+
 # تجدون في هذه الصفحة مجموعة من أبحاث و حوليات الشيخ العلامة يوسف القرضاوي
 
 1. أضواء على أحاديث أسيء فهمها 1
@@ -57,7 +60,7 @@
 
 للمساعدة في نشر كتب الشيخ القرضاوي الرجاء نشر هذا الرابط:
 
-https://archive.org/details/qaradawi.net
+https://qaradawi.github.io
 
 هذه الكتب تجدونها أيضا على أي من هذه الروابط:
 
@@ -66,6 +69,8 @@ OneDrive: https://goo.gl/oSn8TC
 Dropbox: https://goo.gl/CmecsI
 
 Google Drive: https://goo.gl/auJ1PK
+
+Archive.org: https://archive.org/details/qaradawi.net
 
 لإضافة كتاب, للاستفسار أو للتبليغ عن خلل, الرجاء مراسلة صفحة تراث الشيخ القرضاوي على الفايسبوك:
 
